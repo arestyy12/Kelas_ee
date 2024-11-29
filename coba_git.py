@@ -1,4 +1,4 @@
 print("Ai Resti Saniah")
 print("Mahasiswa")
 print ("Informatik")
-print("Nama")
+print("Nama 2")
